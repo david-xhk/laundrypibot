@@ -1,4 +1,5 @@
 # LaundryPiBot
+LaundryPiBot is your convenient one-stop solution to doing your laundry using common washers in hostels, dormitories, etc. The Telegram bot will simply notify you when your laundry is done, so you never need to wait for the washer to finish again!
 
 ## Setup
 To operate LaundryPiBot, there are three separate modules that need to be 
