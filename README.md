@@ -67,7 +67,7 @@ the exit button of the terminal. To avoid this, move the terminals to the
 corners of the screen so that any exit button is out of reach of possible 
 touches.
 
-### Another Demonstration
+## Another Demonstration
 To see the case when there are no idle washers, but only washers that are 
 running with some that are faulty, run the following to set up the database 
 one more time.
